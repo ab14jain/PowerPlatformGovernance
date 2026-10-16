@@ -4,7 +4,7 @@ A collection of practical guidance, automation scripts, APIs, and examples for M
 
 ## Documentation
 
-- docs/resource-cleanup.md
+- [Power Platform Resource Cleanup and Solution Lifecycle Guide](docs/resource-cleanup.md)
 
 ## Planned Areas
 
